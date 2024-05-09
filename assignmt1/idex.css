@@ -1,0 +1,50 @@
+body{
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+img{
+    width: 180px;
+    border-radius: 5px;
+}
+.head, .scan{
+    margin: 0px;
+}
+.code{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:200px;
+    border-radius: 5px;
+    margin:20px;
+
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    margin-left: 10px;
+}
+.head{
+    font-size: medium;
+    margin-bottom: opx;
+    text-align: center;
+}
+.scan{
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+
+}
