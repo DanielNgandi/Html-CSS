@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(250, 249, 249);
+    align-items: center;
+    
+}
+.cointainer{
+    background-color: rgb(187, 153, 41);
+    justify-items: center;
+    align-items: center;
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.box{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    padding: 20px;
+    
+    
+    
+}
+.head,.box{
+    margin: 0px;
+}
+img{
+    width: 100px;
+}
+
+.angular, .react{
+    margin: 10px;
+}
+
+.react, .vue{
+    margin: 10px;
+}
+.angular{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.react{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.vue{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}

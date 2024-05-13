@@ -1,0 +1,66 @@
+body{background-color: white;
+
+}
+img{
+    width: 100%;
+}
+.cointaner{
+    width: 700px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.logins{
+    column-gap: 150px;
+    display: flex;
+    justify-content: center;
+}
+.mav{
+    width: 50%;
+    margin: 10px;
+}
+.reg{
+    display: flex;
+    align-items: end;
+}
+.nap{
+    display: flex;
+}
+.strog{
+    margin: 0px;
+    margin-left: 0px;
+
+
+}
+#mybutton{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    padding: 7px;
+    border: none;
+}
+#register{
+    border-radius: 5px;
+    border-color: rgb(36, 36, 35);
+}
+.image{
+    width: 50%;
+}
+.nap,.reg{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    margin: 20px;
+}
+.footer{
+    display: flex;
+    column-gap: 20px;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(212, 212, 252);
+    display: flex;
+    justify-content: center;
+
+}
+.cointainer{
+    background-color:rgb(230, 230, 255);
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    height: 375px;
+    display:flex;
+    flex-direction: column;
+    border-radius: 30px;
+    margin-top: 50px;
+ 
+}
+img{
+    width: 20px;    
+}
+
+.myimage{
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    margin-bottom: 0px;
+}
+.butt{
+    padding: 5px;
+    background-color: white;
+    border-radius: 15px;
+    width:150px ;
+    justify-content: center;
+    align-items: center;
+    margin: 45px;
+
+}
+.images{
+    column-gap: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}

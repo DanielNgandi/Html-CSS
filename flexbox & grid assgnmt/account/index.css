@@ -1,0 +1,121 @@
+body{
+    background-color: white;
+    justify-content: center;
+}
+.login{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo,.nav,.account{
+    display: flex;
+    column-gap: 20px;
+}
+.cointainer{
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+img{
+    width: 20px;
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.register,.order{
+    margin: 20px;
+}
+.register{
+    background-color: rgb(248, 248, 248);
+    width: 60%;
+    padding: 50px;
+    border-radius: 5px;
+    padding-top: 0px;
+}
+.order{
+    background-color: rgb(248, 248, 248);
+    width: 40%;
+    border-radius: 5px;
+    padding: 50px;
+    padding-top: 0px;
+}
+.head{
+    display: flex;
+    column-gap: 70px;
+}
+.logins{
+    display: flex;
+    justify-content: space-between;
+}
+.signup{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+
+}
+.button{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+.head{
+    display: flex; 
+    align-items: center; 
+}
+.mag{
+    border-radius: 2px;
+}
+.sony, .head{
+    display: flex;
+    column-gap: 20px;
+}
+#mysony{
+    width: 200px;
+    border: none;
+    background-color: rgb(248, 248, 248);
+    justify-self: first baseline;
+
+}
+.sony{
+    padding-left: 0px;
+}
+#myone,#mytwo{
+    width: 40px;
+    height: 20px;
+}
+.gift{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+#mail,#password{
+    border-radius: 5px;
+    padding: 7px;
+    background-color: rgb(209, 206, 200);
+    width: 300px;
+    border: none;
+}
+#apply{
+    width: 70px;
+    border-color: rgb(77, 77, 241);
+    border-radius: 5px;
+    margin-top: 35px;
+}
+.mon,.cac,.shep,.tax{
+    display: flex;
+    justify-content: space-between;
+}
+.mybut{
+    color: rgb(101, 101, 236);
+}
+#card{
+    border-radius: 5px;
+    background-color: rgb(209, 206, 200);
+    border: none;
+    padding: 7px;
+}
